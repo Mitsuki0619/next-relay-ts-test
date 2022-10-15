@@ -10,6 +10,7 @@
     "generate:relay": "relay-compiler"
   },
   "dependencies": {
+    "@prisma/client": "4.4.0",
     "next": "12.3.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
@@ -27,6 +28,7 @@
     "eslint": "8.25.0",
     "eslint-config-next": "12.3.1",
     "graphql": "^16.6.0",
+    "prisma": "^4.4.0",
     "relay-compiler": "^14.1.0",
     "relay-compiler-language-typescript": "^15.0.1",
     "relay-config": "^12.0.1",
